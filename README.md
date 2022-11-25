@@ -1,1 +1,1 @@
-https://CV-Andela/Html-Css-CV/CV.html
+http://CV-Andela/Html-Css-CV/CV.html
